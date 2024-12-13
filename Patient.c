@@ -162,6 +162,7 @@ void modifier_p(Patient tab[], int rech)
     case (6):
     {
         printf("\n introduire la nationalité: ");
+
         fflush(stdin);
         break;
     }
